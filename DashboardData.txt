@@ -1,0 +1,453 @@
+#kubuntu-devel.txt :
+Most Frequent Time:  15
+No. of responses:  1047
+Percentage of total 10.456406671327274 %
+
+#kubuntu.txt :
+Most Frequent Time:  19
+No. of responses:  686
+Percentage of total 6.895858464012867 %
+
+#launchpad.txt :
+Most Frequent Time:  11
+No. of responses:  158
+Percentage of total 6.969563299514777 %
+
+#lubuntu.txt :
+Most Frequent Time:  23
+No. of responses:  434
+Percentage of total 8.95399216009903 %
+
+#ubuntu+1.txt :
+Most Frequent Time:  18
+No. of responses:  207
+Percentage of total 9.495412844036696 %
+
+#ubuntu-accessibility.txt :
+Most Frequent Time:  00
+No. of responses:  15
+Percentage of total 34.883720930232556 %
+
+#ubuntu-app-devel.txt :
+Most Frequent Time:  18
+No. of responses:  68
+Percentage of total 10.014727540500736 %
+
+#ubuntu-arm.txt :
+Most Frequent Time:  16
+No. of responses:  543
+Percentage of total 10.249150622876558 %
+
+#ubuntu-beginners.txt :
+Most Frequent Time:  19
+No. of responses:  313
+Percentage of total 13.324819071945509 %
+
+#ubuntu-br.txt :
+Most Frequent Time:  15
+No. of responses:  1395
+Percentage of total 7.970062275038565 %
+
+#ubuntu-bugs.txt :
+Most Frequent Time:  20
+No. of responses:  160
+Percentage of total 9.142857142857142 %
+
+#ubuntu-cat.txt :
+Most Frequent Time:  21
+No. of responses:  158
+Percentage of total 90.28571428571429 %
+
+#ubuntu-cl.txt :
+Most Frequent Time:  13
+No. of responses:  199
+Percentage of total 19.97991967871486 %
+
+#ubuntu-classroom.txt :
+Most Frequent Time:  15
+No. of responses:  551
+Percentage of total 21.456386292834893 %
+
+#ubuntu-cm.txt :
+Most Frequent Time:  13
+No. of responses:  51
+Percentage of total 17.95774647887324 %
+
+#ubuntu-cn.txt :
+Most Frequent Time:  06
+No. of responses:  4968
+Percentage of total 9.084758160373045 %
+
+#ubuntu-community-team.txt :
+Most Frequent Time:  16
+No. of responses:  620
+Percentage of total 14.622641509433961 %
+
+#ubuntu-de.txt :
+Most Frequent Time:  13
+No. of responses:  1076
+Percentage of total 8.852324146441793 %
+
+#ubuntu-desktop.txt :
+Most Frequent Time:  16
+No. of responses:  966
+Percentage of total 12.315145334013259 %
+
+#ubuntu-devel.txt :
+Most Frequent Time:  15
+No. of responses:  857
+Percentage of total 8.414334806087384 %
+
+#ubuntu-discuss.txt :
+Most Frequent Time:  18
+No. of responses:  735
+Percentage of total 55.42986425339367 %
+
+#ubuntu-doc.txt :
+Most Frequent Time:  19
+No. of responses:  12
+Percentage of total 30.76923076923077 %
+
+#ubuntu-eg.txt :
+Most Frequent Time:  13
+No. of responses:  49
+Percentage of total 31.41025641025641 %
+
+#ubuntu-es.txt :
+Most Frequent Time:  19
+No. of responses:  784
+Percentage of total 10.563190514686069 %
+
+#ubuntu-gnome.txt :
+Most Frequent Time:  21
+No. of responses:  128
+Percentage of total 11.552346570397113 %
+
+#ubuntu-hr.txt :
+Most Frequent Time:  13
+No. of responses:  1365
+Percentage of total 11.333444038525407 %
+
+#ubuntu-ie.txt :
+Most Frequent Time:  13
+No. of responses:  67
+Percentage of total 24.907063197026023 %
+
+#ubuntu-ir.txt :
+Most Frequent Time:  19
+No. of responses:  150
+Percentage of total 15.889830508474576 %
+
+#ubuntu-irc.txt :
+Most Frequent Time:  21
+No. of responses:  55
+Percentage of total 15.580736543909348 %
+
+#ubuntu-it.txt :
+Most Frequent Time:  18
+No. of responses:  2878
+Percentage of total 9.806460406160555 %
+
+#ubuntu-ko.txt :
+Most Frequent Time:  04
+No. of responses:  1005
+Percentage of total 9.598853868194842 %
+
+#ubuntu-locoteams.txt :
+Most Frequent Time:  15
+No. of responses:  47
+Percentage of total 17.216117216117215 %
+
+#ubuntu-meeting.txt :
+Most Frequent Time:  16
+No. of responses:  2241
+Percentage of total 48.131443298969074 %
+
+#ubuntu-motu.txt :
+Most Frequent Time:  13
+No. of responses:  207
+Percentage of total 9.421939007737825 %
+
+#ubuntu-mythtv.txt :
+Most Frequent Time:  21
+No. of responses:  185
+Percentage of total 14.208909370199693 %
+
+#ubuntu-nl-mwanzo.txt :
+Most Frequent Time:  14
+No. of responses:  23
+Percentage of total 41.07142857142857 %
+
+#ubuntu-nl.txt :
+Most Frequent Time:  20
+No. of responses:  452
+Percentage of total 11.780036486838677 %
+
+#ubuntu-no.txt :
+Most Frequent Time:  19
+No. of responses:  631
+Percentage of total 13.923212709620477 %
+
+#ubuntu-ops.txt :
+Most Frequent Time:  13
+No. of responses:  212
+Percentage of total 14.228187919463087 %
+
+#ubuntu-ph.txt :
+Most Frequent Time:  06
+No. of responses:  4
+Percentage of total 25.0 %
+
+#ubuntu-pl.txt :
+Most Frequent Time:  13
+No. of responses:  757
+Percentage of total 9.828615943910673 %
+
+#ubuntu-qc.txt :
+Most Frequent Time:  01
+No. of responses:  9
+Percentage of total 34.61538461538461 %
+
+#ubuntu-quality.txt :
+Most Frequent Time:  20
+No. of responses:  1036
+Percentage of total 20.494559841740852 %
+
+#ubuntu-release.txt :
+Most Frequent Time:  14
+No. of responses:  256
+Percentage of total 10.203268234356317 %
+
+#ubuntu-ro.txt :
+Most Frequent Time:  15
+No. of responses:  544
+Percentage of total 18.10918774966711 %
+
+#ubuntu-rs.txt :
+Most Frequent Time:  20
+No. of responses:  192
+Percentage of total 20.71197411003236 %
+
+#ubuntu-ru.txt :
+Most Frequent Time:  16
+No. of responses:  1672
+Percentage of total 9.11966837569543 %
+
+#ubuntu-se.txt :
+Most Frequent Time:  19
+No. of responses:  1065
+Percentage of total 9.869335557408952 %
+
+#ubuntu-server.txt :
+Most Frequent Time:  17
+No. of responses:  1372
+Percentage of total 10.993589743589743 %
+
+#ubuntu-si.txt :
+Most Frequent Time:  14
+No. of responses:  1313
+Percentage of total 8.994998972391587 %
+
+#ubuntu-tn.txt :
+Most Frequent Time:  22
+No. of responses:  97
+Percentage of total 38.95582329317269 %
+
+#ubuntu-tr.txt :
+Most Frequent Time:  20
+No. of responses:  794
+Percentage of total 14.023313316849169 %
+
+#ubuntu-uk.txt :
+Most Frequent Time:  10
+No. of responses:  1301
+Percentage of total 8.92991969249777 %
+
+#ubuntu-unity.txt :
+Most Frequent Time:  15
+No. of responses:  751
+Percentage of total 10.917284489024567 %
+
+#ubuntu-us-ca.txt :
+Most Frequent Time:  03
+No. of responses:  358
+Percentage of total 26.459719142645973 %
+
+#ubuntu-us-mi.txt :
+Most Frequent Time:  18
+No. of responses:  580
+Percentage of total 17.29794214136594 %
+
+#ubuntu-us-oh.txt :
+Most Frequent Time:  04
+No. of responses:  272
+Percentage of total 16.821273964131105 %
+
+#ubuntu-us-pa.txt :
+Most Frequent Time:  00
+No. of responses:  258
+Percentage of total 15.799142682180037 %
+
+#ubuntu-us-tn.txt :
+Most Frequent Time:  19
+No. of responses:  158
+Percentage of total 19.221411192214113 %
+
+#ubuntu-uy.txt :
+Most Frequent Time:  00
+No. of responses:  456
+Percentage of total 19.791666666666668 %
+
+#ubuntu-vn.txt :
+Most Frequent Time:  10
+No. of responses:  745
+Percentage of total 12.251274461437264 %
+
+#ubuntu-website.txt :
+Most Frequent Time:  23
+No. of responses:  155
+Percentage of total 32.291666666666664 %
+
+#ubuntu-x.txt :
+Most Frequent Time:  14
+No. of responses:  277
+Percentage of total 13.459669582118561 %
+
+#ubuntu-za.txt :
+Most Frequent Time:  18
+No. of responses:  2192
+Percentage of total 15.19584055459272 %
+
+#ubuntu.txt :
+Most Frequent Time:  02
+No. of responses:  7194
+Percentage of total 4.767111305488738 %
+
+#ubuntuone.txt :
+Most Frequent Time:  11
+No. of responses:  114
+Percentage of total 16.033755274261605 %
+
+#ubuntustudio-devel.txt :
+Most Frequent Time:  14
+No. of responses:  267
+Percentage of total 10.6629392971246 %
+
+#ubuntustudio.txt :
+Most Frequent Time:  16
+No. of responses:  351
+Percentage of total 9.171674941207211 %
+
+#upstart.txt :
+Most Frequent Time:  23
+No. of responses:  77
+Percentage of total 11.0 %
+
+#xubuntu-devel.txt :
+Most Frequent Time:  15
+No. of responses:  529
+Percentage of total 30.38483630097645 %
+
+#xubuntu.txt :
+Most Frequent Time:  20
+No. of responses:  521
+Percentage of total 6.862486828240253 %
+
+#bzr.txt :
+Most Frequent Time:  19
+No. of responses:  105
+Percentage of total 10.521042084168336 %
+
+#juju-dev.txt :
+Most Frequent Time:  14
+No. of responses:  709
+Percentage of total 10.811222933821288 %
+
+#juju-gui.txt :
+Most Frequent Time:  14
+No. of responses:  365
+Percentage of total 14.75343573160873 %
+
+#launchpad-dev.txt :
+Most Frequent Time:  05
+No. of responses:  719
+Percentage of total 20.03901895206243 %
+
+#ubuntu-artwork.txt :
+Most Frequent Time:  23
+No. of responses:  3
+Percentage of total 25.0 %
+
+#ubuntu-au.txt :
+Most Frequent Time:  12
+No. of responses:  126
+Percentage of total 25.557809330628803 %
+
+#ubuntu-co-meeting.txt :
+Most Frequent Time:  02
+No. of responses:  333
+Percentage of total 34.61538461538461 %
+
+#ubuntu-co.txt :
+Most Frequent Time:  20
+No. of responses:  306
+Percentage of total 16.558441558441558 %
+
+#ubuntu-cym.txt :
+Most Frequent Time:  16
+No. of responses:  62
+Percentage of total 54.3859649122807 %
+
+#ubuntu-dz.txt :
+Most Frequent Time:  22
+No. of responses:  182
+Percentage of total 46.666666666666664 %
+
+#ubuntu-fi.txt :
+Most Frequent Time:  20
+No. of responses:  174
+Percentage of total 12.133891213389122 %
+
+#ubuntu-il.txt :
+Most Frequent Time:  22
+No. of responses:  111
+Percentage of total 22.5609756097561 %
+
+#ubuntu-installer.txt :
+Most Frequent Time:  16
+No. of responses:  388
+Percentage of total 32.03963666391412 %
+
+#ubuntu-kernel.txt :
+Most Frequent Time:  16
+No. of responses:  690
+Percentage of total 17.362858580775036 %
+
+#ubuntu-mozillateam.txt :
+Most Frequent Time:  19
+No. of responses:  33
+Percentage of total 29.20353982300885 %
+
+#ubuntu-nz.txt :
+Most Frequent Time:  23
+No. of responses:  137
+Percentage of total 16.09870740305523 %
+
+#ubuntu-on-air.txt :
+Most Frequent Time:  19
+No. of responses:  503
+Percentage of total 36.90388848129127 %
+
+#ubuntu-pe.txt :
+Most Frequent Time:  18
+No. of responses:  103
+Percentage of total 22.055674518201286 %
+
+#ubuntu-phone.txt :
+Most Frequent Time:  21
+No. of responses:  604
+Percentage of total 9.546388493756915 %
+
+#ubuntu-sa.txt :
+Most Frequent Time:  15
+No. of responses:  1
