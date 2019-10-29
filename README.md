@@ -3,7 +3,7 @@ The following contains codes as part of the analysis of the community structure 
 
 The steps in this are summarised in the photo given below:
 
-
+![Steps for creation of chat-bot](https://github.com/soundarya98/Leather-defect-detection/blob/master/GUI_Backend.png)
 
 We have attached codes for:
 1. Web Scraping
