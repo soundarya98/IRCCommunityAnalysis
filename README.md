@@ -11,9 +11,17 @@ We have attached codes for:
 3. Testing on a custom WhatsApp chat.
 
 The codes are organised as follows:
+
+Web_Scraping_2.ipynb contains code that scrapes the web for the IRC chat logs.
+
 IRC_NAMES.ipynb contains code that extracts top experts and their active timings for each keyword.
+
 Dashboard.txt contains this output, which will be displayed on the chat-bot interface.
+
 QSTP_Competitive.ipynb contains code that extracts the usernames and timings for a university group chat on WhatsApp.
+
+AdjacencyList.ipynb generates the adjacency list for the graph to be made. (Shown below)
+
 
 
 Here is a snippet of the directed graph for various users in 2013:
