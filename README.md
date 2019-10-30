@@ -21,4 +21,4 @@ Following is the directed graph obtained by all users/experts in 2013 Jan:
 
 And following is the graph for users/experts with colour denoting the various communities, and nodes ranked by betweenness centrality:
 
-![GephiGraph2](https://github.com/soundarya98/IRCCommunityAnalysis/blob/master/GephiGraph1.png)
+![GephiGraph2](https://github.com/soundarya98/IRCCommunityAnalysis/blob/master/GephiGraph2.png)
