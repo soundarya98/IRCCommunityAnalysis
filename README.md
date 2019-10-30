@@ -11,6 +11,9 @@ We have attached codes for:
 3. Testing on a custom WhatsApp chat.
 
 The codes are organised as follows:
+IRC_NAMES.ipynb contains code that extracts top experts and their active timings for each keyword.
+Dashboard.txt contains this output, which will be displayed on the chat-bot interface.
+QSTP_Competitive.ipynb contains code that extracts the usernames and timings for a university group chat on WhatsApp.
 
 
 Here is a snippet of the directed graph for various users in 2013:
