@@ -3,12 +3,14 @@ The following contains codes as part of the analysis of the community structure 
 
 The steps in this are summarised in the photo given below:
 
-![Steps for creation of chat-bot](https://github.com/soundarya98/IRCComamunityAnalysis/blob/master/Images/Project_Flow.png)
+![Steps for creation of chat-bot](https://github.com/soundarya98/IRCCommunityAnalysis/blob/master/Images/Project_Flow.png)
 
 We have attached codes for:
 1. Web Scraping
 2. Classifications into users and experts
 3. Testing on a custom WhatsApp chat.
+
+The codes are organised as follows:
 
 
 Here is a snippet of the directed graph for various users in 2013:
