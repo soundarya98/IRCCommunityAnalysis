@@ -15,6 +15,7 @@ We have attached codes for:
 1. Web Scraping
 2. Classifications into users and experts
 3. Testing on a custom WhatsApp chat.
+4. Testing on a custom Telegram chat.
 
 The codes are organised as follows:
 
