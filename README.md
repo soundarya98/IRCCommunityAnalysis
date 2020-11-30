@@ -27,6 +27,8 @@ Dashboard.txt contains this output, which will be displayed on the chat-bot inte
 
 QSTP_Competitive.ipynb contains code that extracts the usernames and timings for a university group chat on WhatsApp.
 
+Telegram_Scraping.ipynb contains code that extracts the usernames and timings for a university group chat on Telegram.
+
 AdjacencyList.ipynb generates the adjacency list for the graph to be made. (Shown below)
 
 
