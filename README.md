@@ -29,8 +29,7 @@ QSTP_Competitive.ipynb contains code that extracts the usernames and timings for
 AdjacencyList.ipynb generates the adjacency list for the graph to be made. (Shown below)
 
 
-
-Here is a snippet of the directed graph for various users in 2013:
+Here is a snippet of the directed graph for various users in the Ubuntu IRC chat in 2013:
 
 ![Directed Graph](https://github.com/soundarya98/IRCCommunityAnalysis/blob/master/Images/DirectedGraph.png)
 
