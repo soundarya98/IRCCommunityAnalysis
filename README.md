@@ -7,9 +7,9 @@ The steps in this are summarised in the photo given below:
 
 Here is a snippet of the admin interface and the user interface:
 
-![Admin Interface](https://github.com/soundarya98/IRCCommunityAnalysis/blob/master/Images/admin_interface.png)
+![Admin Interface](https://github.com/soundarya98/IRCCommunityAnalysis/blob/master/Images/admin-1.png)
 
-![User Interface](https://github.com/soundarya98/IRCCommunityAnalysis/blob/master/Images/admin_interface.png)
+![User Interface](https://github.com/soundarya98/IRCCommunityAnalysis/blob/master/Images/user-2.png)
 
 We have attached codes for:
 1. Web Scraping
